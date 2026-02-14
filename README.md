@@ -25,6 +25,8 @@ git clone https://github.com/alaminboss22/EvilURL-Termux.git
 
 # ডিরেক্টরিতে প্রবেশ করুন
 cd EvilURL-Termux
+# run
+python evilurl.py
 
 # প্রয়োজনীয় লাইব্রেরি ইনস্টল করুন
 pip install python-nmap python-whois
