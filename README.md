@@ -19,8 +19,9 @@ pkg update && pkg upgrade -y
 # পাইথন এবং গিট ইনস্টল করুন
 pkg install python git nmap -y
 
+
 # রিপোজিটরি ক্লোন করুন
-git clone [https://github.com/Your-Username/Your-Repo-Name.git](https://github.com/Your-Username/Your-Repo-Name.git)
+git clone https://github.com/alaminboss22/EvilURL-Termux.git
 
 # ডিরেক্টরিতে প্রবেশ করুন
 cd Your-Repo-Name
